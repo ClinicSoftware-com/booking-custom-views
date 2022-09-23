@@ -28,3 +28,15 @@ To get started with the custom views you can simply open up one of the many [Exa
 
 ### How to run
 To run the project please run the [run.sh](./run.sh) file if on Linux or MacOS, you **MUST** make sure that you have `PHP 7.4` installed in the global PATH variable.
+
+
+# Page Descriptions
+
+### [settings.php](./base/settings.php)
+This file isn't actually won't be used in ClinicSoftware, but it's a means to load in the settings and simulate the Software's behaviour to some extent
+
+### [index.php](./base/index.php)
+This is the booking landing page/first step which lists your service sections in the online booking page.
+
+### [booking_progress_step1.php](./base/booking_progress_step1.php)
+The steps at the top of the page, this is for the first page [index.php](./base/index.php)
