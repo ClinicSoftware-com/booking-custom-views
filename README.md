@@ -27,7 +27,7 @@ To simualte the `PHP` variables, received from your license, these can be found 
 To get started with the custom views you can simply open up one of the many [Examples Folder](./examples/) or start off from the [Base](./base) which contains all of the features with none removed, the look and feel it's exactly the same as in ClinicSoftware.com's online booking.
 
 ### How to run
-To run the project please run the [run.sh](./run.sh) file if on Linux or MacOS, you **MUST** make sure that you have `PHP 7.4` installed in the global PATH variable.
+To run the project please run the [run.sh](./run.sh) file if on Linux or MacOS, for windows you might have to just run `php -S 0.0.0.0:8000 -t base/` manually but have a look in the [run.sh](./run.sh) file to make sure, you **MUST** make sure that you have `PHP 7.4` installed in the global PATH variable.
 
 
 # Page Descriptions
